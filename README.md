@@ -1,4 +1,7 @@
+
+
 ---
+
 
 # Fun 4
 clone folder ลงไปหน้า home ใช้คำสั่งดังนี้:
@@ -122,4 +125,14 @@ ros2 launch example_description teleop_mode.launch.py
 
 
 หุ่นยนต์จะหยุดเคลื่อนที่ทันทีหากตรวจพบว่าสภาพการเคลื่อนที่เข้าสู่ singularity และจะมีการแจ้งเตือนผ่านข้อความ
+
+
+
+
+
+
+
+
+
+
 
