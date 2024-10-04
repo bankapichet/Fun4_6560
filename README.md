@@ -8,8 +8,9 @@ clone folder ลงไปหน้า home ใช้คำสั่งดัง�
 
 ```bash
 cd
-git clone https://github.com/Phetzxc/example_description.git
-cd example_description
+git clone https://github.com/bankapichet/Fun4_6560.git
+รีเนมไฟล์จาก Fun4_6560 เป็น Fun4
+cd Fun4
 colcon build
 source install/setup.bash
 ```
