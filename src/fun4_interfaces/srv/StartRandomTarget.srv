@@ -1,0 +1,3 @@
+bool start  # คำขอจาก client (request)
+---
+bool success  # คำตอบจาก server (response)
